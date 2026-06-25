@@ -20,11 +20,11 @@
     <tr>
       <td align="center" style="border: none;">
         <!-- 核心统计 -->
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=singsin-oh&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" height="160" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=singsinstdio&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" height="160" />
       </td>
       <td align="center" style="border: none;">
         <!-- 语言排行 -->
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=singsin-oh&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&bg_color=00000000" height="160" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=singsinstdio&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&bg_color=00000000" height="160" />
       </td>
     </tr>
   </table>
@@ -35,7 +35,7 @@
 
 <!-- 🏆 奖杯墙 (TokyoNight 主题)
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=singsin-oh&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=15" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=singsinstdio&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=15" width="90%"/>
 </div>
 -->
 <br/>
@@ -60,7 +60,7 @@
 
 <!-- 底部 -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=singsin-oh&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=singsinstdio&style=flat-square&color=blueviolet" alt="Profile Views"/>
   <br/>
   <br/>
   <a href="https://github.com/singsin-oh">
