@@ -157,7 +157,7 @@ I'm particularly interested in building software that is:
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/singsin-oh/singsin-oh/output/github-contribution-grid-snake.svg" width="90%" />
+  <img src="https://raw.githubusercontent.com/hydxxx0717/hydxxx0717/output/github-contribution-grid-snake.svg" width="90%" />
 
 </div>
 
@@ -166,7 +166,7 @@ I'm particularly interested in building software that is:
 <div align="center">
 
   <a href="https://github.com/singsinstdio">
-    <img src="https://komarev.com/ghpvc/?username=singsinstdio&style=flat-square&color=7986CB" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=hydxxx&style=flat-square&color=7986CB" alt="Profile Views"/>
   </a>
 
 <br/><br/>
