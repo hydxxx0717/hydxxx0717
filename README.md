@@ -145,9 +145,8 @@ I'm particularly interested in building software that is:
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=singsinstdio&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" />
-
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=singsinstdio&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&bg_color=00000000" />
+<img src="./profile/stats.svg" alt="GitHub Statistics" width="49%"/>
+<img src="./profile/top-langs.svg" alt="Top Programming Languages" width="49%"/>
 
 </div>
 
