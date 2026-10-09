@@ -43,7 +43,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=github-readme-stats&theme=tokyonight&hide_border=true&bg_color=00000000
+          options: username=${{ github.repository_owner }}&repo=flutter_native_device&theme=tokyonight&hide_border=true&bg_color=00000000
           path: profile/repo-1.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
